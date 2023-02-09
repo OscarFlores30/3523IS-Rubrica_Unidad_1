@@ -1,6 +1,6 @@
 # 3523IS-Rubrica_Unidad_1
 Caso de estudio "Empresa patitos de hule"
-Nombres:
+
 Lopez_Pacheco_Erick_Alejandro_1321124248
 Ramirez_Perez_Christian_Uriel_1321124315
 Alcantar_Chavez_Rafael_1321124234
